@@ -1,0 +1,29 @@
+.signup-contain {
+    padding-top: 30px;
+
+    .signup-logo {
+        width: 130px;
+    }
+
+    .register-title {
+        margin-bottom: 20px;
+    }
+
+    .img-contain {
+        margin-bottom: 50px;
+    }
+
+    .input-contain {
+        margin: 0 35vw;
+    }
+
+    .input-box {
+        height         : 4vh;
+        margin         : 10px 0;
+        border-style: solid;
+        border-color:#666 ;
+        border-width: 1px;
+        border-radius  : 10px;
+        outline: none;
+    }
+}

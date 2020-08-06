@@ -1,0 +1,20 @@
+@import '../scss/varibles.scss';
+
+.title-font-size {
+    font-size  : 42px;
+    font-weight: 400;
+}
+
+.center-horizontally {
+    display        : flex;
+    justify-content: center;
+}
+
+.vertical-arrangement {
+    display       : flex;
+    flex-direction: column;
+}
+
+.brown-text-color {
+    color: $primary-brown-color;
+}
