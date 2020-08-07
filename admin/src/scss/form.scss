@@ -14,7 +14,7 @@
     }
 
     .input-contain {
-        margin: 0 35vw;
+        margin: 0 42vw;
     }
 
     .input-box {
@@ -25,5 +25,14 @@
         border-width: 1px;
         border-radius  : 10px;
         outline: none;
+    }
+    .form-button{
+        height: 4vh;
+        border-radius: 8px;
+        border-style: none;
+        margin-top: 15px;
+        background-color: #F5BC30;
+        outline: none;
+        color: #57241a;
     }
 }
